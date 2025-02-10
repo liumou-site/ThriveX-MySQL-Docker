@@ -4,8 +4,7 @@
 -- ------------------------------------------------------
 -- Server version	8.0.39
 
-CREATE DATABASE IF NOT EXISTS ThriveX;
-use ThriveX;
+--use ThriveX;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
